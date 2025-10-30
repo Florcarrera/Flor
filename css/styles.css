@@ -1,0 +1,122 @@
+body {
+    background-image: url(/img/fondo-de-la-pagina.jpg); background-size: cover;
+    color: rgb(231, 125, 157);
+}
+
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.fondo-descripcion {
+    width: 180px;
+    height: 80px;
+    background-color: rgb(232, 104, 142);
+    border: 3px solid rgb(222, 76, 120);
+    border-radius: 10px;
+}
+
+#descripcion {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    row-gap: 10px;
+}
+
+.fondo-listado {
+    width: 180px;
+    height: 80px;
+    background-color: rgb(232, 104, 142);
+    border: 3px solid rgb(222, 76, 120);
+    border-radius: 10px;
+}
+
+#listado {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    row-gap: 10px;
+}
+
+.fondo-imagen {
+    width: 180px;
+    height: 80px;
+    background-color: rgb(232, 104, 142);
+    border: 3px solid rgb(222, 76, 120);
+    border-radius: 10px;
+}
+
+#imagen {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    row-gap: 10px;
+}
+
+.fondo-pagina-web {
+    width: 180px;
+    height: 80px;
+    background-color: rgb(232, 104, 142);
+    border: 3px solid rgb(222, 76, 120);
+    border-radius: 10px;
+}
+
+#pagina-web {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    row-gap: 10px;
+}
+
+img {
+border-radius: 10px;
+border-style: dotted;
+}
+
+a:hover {
+    color: rgb(231, 125, 157);
+    font-size: 20px;
+    text-decoration: underline;
+    transition-duration: 1s;
+}
+
+a:visited {
+    color: rgb(222, 76, 120);
+    text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+    .fondo-descripcion {
+        background-color: rgb(232, 104, 142);
+        width: 100%;
+        margin: 0px 16px;
+    }
+    .fondo-listado {
+        background-color: rgb(232, 104, 142);
+        width: 100%;
+        margin: 0px 16px;
+    }
+    .fondo-imagen {
+        background-color: rgb(232, 104, 142);
+        width: 100%;
+        margin: 0px 16px;
+    }
+    .fondo-pagina-web {
+        background-color: rgb(232, 104, 142);
+        width: 100%;
+        margin: 0px 16px;
+    }
+}
