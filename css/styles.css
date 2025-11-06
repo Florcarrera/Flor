@@ -100,22 +100,22 @@ a:visited {
 
 @media (max-width: 768px) {
     .fondo-descripcion {
-        background-color: rgb(232, 104, 142);
+        background-color: rgb(234, 78, 125);
         width: 100%;
         margin: 0px 16px;
     }
     .fondo-listado {
-        background-color: rgb(232, 104, 142);
+        background-color: rgb(234, 78, 125);
         width: 100%;
         margin: 0px 16px;
     }
     .fondo-imagen {
-        background-color: rgb(232, 104, 142);
+        background-color: rgb(234, 78, 125);
         width: 100%;
         margin: 0px 16px;
     }
     .fondo-pagina-web {
-        background-color: rgb(232, 104, 142);
+        background-color: rgb(234, 78, 125);
         width: 100%;
         margin: 0px 16px;
     }
