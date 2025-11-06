@@ -1,5 +1,5 @@
 body {
-    background-image: url(/img/fondo-de-la-pagina.jpg); background-size: cover;
+    background-image: url(../img/fondo-de-la-pagina.jpg); background-size: cover;
     color: rgb(231, 125, 157);
 }
 
