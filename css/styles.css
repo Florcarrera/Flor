@@ -1,6 +1,6 @@
 body {
     background-image: url(../img/fondo-de-la-pagina.jpg); background-size: cover;
-    color: rgb(231, 125, 157);
+    color: #e77d9d;
 }
 
 .pacifico-regular {
@@ -12,8 +12,8 @@ body {
 .fondo-descripcion {
     width: 180px;
     height: 80px;
-    background-color: rgb(232, 104, 142);
-    border: 3px solid rgb(222, 76, 120);
+    background-color: #e8688e;
+    border: 3px solid #de4c78;
     border-radius: 10px;
 }
 
@@ -30,8 +30,8 @@ body {
 .fondo-listado {
     width: 180px;
     height: 80px;
-    background-color: rgb(232, 104, 142);
-    border: 3px solid rgb(222, 76, 120);
+    background-color: #e8688e;
+    border: 3px solid #de4c78;
     border-radius: 10px;
 }
 
@@ -48,8 +48,8 @@ body {
 .fondo-imagen {
     width: 180px;
     height: 80px;
-    background-color: rgb(232, 104, 142);
-    border: 3px solid rgb(222, 76, 120);
+    background-color: #e8688e;
+    border: 3px solid #de4c78;
     border-radius: 10px;
 }
 
@@ -66,8 +66,8 @@ body {
 .fondo-pagina-web {
     width: 180px;
     height: 80px;
-    background-color: rgb(232, 104, 142);
-    border: 3px solid rgb(222, 76, 120);
+    background-color: #e8688e;
+    border: 3px solid #de4c78;
     border-radius: 10px;
 }
 
@@ -87,14 +87,14 @@ border-style: dotted;
 }
 
 a:hover {
-    color: rgb(231, 125, 157);
+    color: #e8688e;
     font-size: 20px;
     text-decoration: underline;
     transition-duration: 1s;
 }
 
 a:visited {
-    color: rgb(222, 76, 120);
+    color: #de4c78;
     text-decoration: underline;
 }
 
